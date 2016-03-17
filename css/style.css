@@ -1,0 +1,31 @@
+div nav ul {
+	display: inline;
+}
+div nav ul li {
+	margin: 0;
+	padding: 0 10px;
+	display: inline;
+}
+#footer {
+	color: DarkSlateGray;
+	font-size: 16px;
+}
+#header {
+	background-color: AliceBlue;
+	color: black;
+	text-align: center;
+	border: 1px solid grey;
+    padding: 10px;
+    margin: 20px;
+}
+mark {
+	color: white;
+	background-color: RoyalBlue; 
+}
+ul {
+	float: right;
+}
+div  {
+	style="text-align:center;
+
+}
